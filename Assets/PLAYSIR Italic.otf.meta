@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fc59a27ffdf5a8345a5fbee662c3d381
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PLAYSIR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1c22d25f6ab8fa540acf25270f7d521b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
